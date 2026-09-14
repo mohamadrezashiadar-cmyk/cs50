@@ -1,0 +1,11 @@
+{
+  "theme": "dark",
+  "data_directory": "large",
+  "last_user": "shahdad",
+  "remember_me": false,
+  "window_width": 1300,
+  "window_height": 800,
+  "max_history": 100,
+  "show_splash": true,
+  "auto_search_names": true
+}
